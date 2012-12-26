@@ -1,1 +1,1 @@
-var multitool = require("./lib");
+module.exports = require("./lib");

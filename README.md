@@ -8,7 +8,7 @@ swiss army knife of useful javascript functions
 
     LOGLEVEL=trace node index.js
 
-### index.js
+### basic.js
     var multitool = require("multitool");
     var l = new multitool.Log();
     var debug = l.debug;
