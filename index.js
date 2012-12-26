@@ -1,0 +1,1 @@
+var multitool = require("./lib");
