@@ -1,6 +1,6 @@
 {
   "name": "multitool",
-  "version": "0.0.2-0",
+  "version": "0.0.2-1",
   "description": "swiss army knife of useful javascript functions",
   "main": "index.js",
   "scripts": {
