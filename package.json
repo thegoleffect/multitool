@@ -11,5 +11,8 @@
     "url": "git://github.com/thegoleffect/multitool.git"
   },
   "author": "Van Nguyen <thegoleffect@gmail.com>",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.4.3"
+  }
 }
